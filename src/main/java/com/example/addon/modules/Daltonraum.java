@@ -16,15 +16,7 @@ public class Daltonraum extends Module {
         super(DaltonUtils.CATEGORY, "Daltonraum", "description");
     }
 
-    ///double roundedX = Math.round(mc.player.getX());
-    ///double roundedY = Math.round(mc.player.getY());
-    ///double roundedZ = Math.round(mc.player.getZ());
-
-
     @Override
     public void onActivate() {
-
-
-        );
     }
 }
